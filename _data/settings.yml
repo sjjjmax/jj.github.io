@@ -164,7 +164,8 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: sophmonica@gmail.com # Add your form_id
+  email: sophmonica@gmail.com # 可选，供其他配置使用
+  form_id: f/mbllnany # 仅填写端点的后半部分
   description: Get in touch with us via the built-in contact form, powered by Formspree. Easily customizable for your unique needs.
 
 # NOTE
@@ -173,7 +174,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: jacska.se # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: jacska-se # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
