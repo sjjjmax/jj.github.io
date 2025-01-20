@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photography Tips for Portfolio Success
-date: 2024-04-21 15:01:35 +0300
+date: 2025-01-01 10:01:35 +0300
 image: '/images/06.jpg'
 tags: [Design]
 ---

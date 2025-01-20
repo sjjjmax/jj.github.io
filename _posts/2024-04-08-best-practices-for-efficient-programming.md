@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Practices for Efficient Programming
-date: 2024-04-08 15:01:35 +0300
+date: 2025-01-01 06:01:35 +0300
 image: '/images/11.jpg'
 video_embed: https://www.youtube.com/embed/phiMxtqlFIY
 tags: [Coding]

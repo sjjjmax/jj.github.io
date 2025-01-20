@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portfolio Highlights in Product Design
-date: 2024-04-10 15:01:35 +0300
+date: 2025-01-01 07:01:35 +0300
 image: '/images/09.jpg'
 tags: [Design]
 ---

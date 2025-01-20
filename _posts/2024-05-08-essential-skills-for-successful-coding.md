@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Skills for Successful Coding
-date: 2024-05-08 15:01:35 +0300
+date: 2025-01-01 14:01:35 +0300
 image: '/images/03.jpg'
 tags: [Coding]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced Concepts in Product Design
-date: 2024-05-07 15:01:35 +0300
+date: 2025-01-01 13:01:35 +0300
 image: '/images/04.jpg'
 tags: [Design]
 ---

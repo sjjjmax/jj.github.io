@@ -2,7 +2,7 @@
 layout: post
 title: Strategies for Effective Development
 description: Design leadership plays a crucial role in guiding teams towards success, fostering a culture of collaboration, innovation, and continuous improvement.
-date: 2024-06-03 15:01:35 +0300
+date: 2025-01-01 15:01:35 +0300
 image: '/images/02.jpg'
 tags: [Coding]
 ---

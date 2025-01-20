@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expert Advice for Design Professionals
-date: 2024-05-04 15:01:35 +0300
+date: 2025-01-01 11:01:35 +0300
 image: '/images/05.jpg'
 tags: [Design]
 ---

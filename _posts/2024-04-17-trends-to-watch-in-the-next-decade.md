@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trends to Watch in the Next Decade
-date: 2024-04-17 15:01:35 +0300
+date: 2025-01-01 09:01:35 +0300
 image: '/images/07.jpg'
 tags: [Design]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stay Productive Without Burning Out
-date: 2024-04-15 15:01:35 +0300
+date: 2025-01-01 08:01:35 +0300
 image: '/images/08.jpg'
 tags: [Coding]
 ---

@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Baleon
-logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
-logo_dark: "/images/logo-dark.svg"
-description: Baleon is a stylish and multifunctional theme for Jekyll
+title: Jacska AB
+logo: "/images/jacska_logo1.svg" # You can add own logo. For example '/images/logo.png'.
+logo_dark: "/images/jacska_logo1_dark.svg"
+description: Jacska AB is a professional consultancy firm specializing in community operations and trade services. We deliver tailored solutions with a commitment to excellence and tradition.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -11,7 +11,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: 'JacskaAB'
       url: '/'
     - title: 'Projects'
       url: '/projects/'
@@ -33,28 +33,34 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_intro: Hey, I’m Kevin Jones
-  author_name: Kevin Jones
+  author_intro: Hey, I’m Jie Shi
+  author_name: Jie Shi
   author_role: Product Designer
-  author_avatar: /images/01.jpg
+  author_avatar: /images/samurai_logo.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: One Stop Daily <em>News,</em> <em>Article,</em> <em>Inspiration</em>. # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
+  sidebar_title: "Harmony and Growth: A <em>Zen Approach</em> to Enterprise" # Reflecting Zen philosophy and business growth.
+  sidebar_description: >
+    Welcome to Jacska AB. Inspired by Zen principles and the discipline of the samurai, we embrace "Shoshin" (初心) — the beginner's mind — approaching every challenge with humility, resilience, and a pursuit of excellence.
+
+    Specializing in consulting, community operations, and Central-European trade, we blend strategic insight with the precision and diligence of Asian craftsmanship. Our commitment mirrors the samurai’s dedication to mastery, delivering tailored solutions that drive meaningful growth.
+
+    At Jacska AB, we embody mindfulness and action, combining tradition and innovation to help partners achieve their vision while staying true to core values.
+
 
 
 # Social Links
-social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
-- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
-- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
+# social:
+# - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+# - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+# - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+# - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+# - {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
+# - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -64,8 +70,8 @@ social:
 # Projects Settings
 projects:
   enable: true
-  projects_title: Product Design <em>Showcase</em> # You can add an 'em' element to highlight text.
-  projects_description: I present my top-tier projects, meticulously crafted with unwavering passion, simplicity, boundless creativity, and unparalleled attention to detail.
+  projects_title: Innovation in <em>Action</em> # A creative and engaging title.
+  projects_description: Dive into our portfolio of groundbreaking projects, where creativity meets perfection. # A more engaging and creative description.
 
 
 #-------------------------------
@@ -76,64 +82,64 @@ testimonials:
   testimonials_description: Join our community of creative professionals where you can develop your talents and reach new heights in design.
 
 testimonial-items:
-  - name: Amelia Jones
+  - name: John Smith
     image: "/images/client-1.jpg"
-    designation : Network Engineer
-    content : This product designer is an expert in his field. His ability to understand the needs of clients and create designs that satisfy them is astounding.
+    designation : Business Consultant
+    content : Jacska AB provided outstanding consulting services. Their attention to detail and ability to deliver tailored solutions exceeded my expectations.
 
-  - name: Ethan Robinson
+  - name: Anna Svensson
     image: "/images/client-2.jpg"
-    designation : Blockchain Developer
-    content : Kevin is a true visionary in the field of product design. His ability to think outside the box and push boundaries is what sets him apart from the rest.
+    designation : Projektledare
+    content : Jacska AB levererade fantastiska lösningar för vårt projekt. Deras expertis och noggrannhet imponerade verkligen på oss.
 
-  - name: Matthew Garcia
+  - name: 高橋 健一 (Kenichi Takahashi)
     image: "/images/client-3.jpg"
-    designation : IT Support Specialist
-    content : I cannot recommend this designer highly enough. Their designs are not only visually stunning but also highly functional, making them perfect for our needs.
+    designation : コミュニティ運営マネージャー
+    content : Jacska ABのサービスは素晴らしいです。プロフェッショナルな対応とニーズを深く理解したアプローチに非常に満足しています。
 
 
 #-------------------------------
 # Blog Section Settings
 blog:
-  enable: true
-  blog_title: Latest <em>Articles</em> & <em>Publications</em> # You can add an 'em' element to highlight text.
-  blog_description: Discover the latest industry news, insights, and trends in a few clicks.
+  enable: true # Set to 'false' if you want to disable the blog section.
+  blog_title: Latest <em>Insights</em> & <em>Updates</em> # Updated for a professional and modern tone.
+  blog_description: Stay informed with the latest updates, industry insights, and expert perspectives tailored to help you grow and succeed.
 
 
 #-------------------------------
 # Faq (Frequently asked questions) Settings
 faq:
-  enable: true
+  enable: true # Set to 'false' to disable the FAQ section.
   faq_title: Questions? <em>Answers</em>. # You can add an 'em' element to highlight text.
-  faq_description: Find solutions to common queries here.
+  faq_description: Learn more about Jacska AB's expertise in community operations and Central-European trade.
 
 faq_items:
-  - title: What are your main areas of expertise in product design?
-    description: My specialization includes user interface (UI) and user experience (UX) design, prototyping, as well as researching and testing user needs.
+  - title: What services does Jacska AB provide in community operations?
+    description: Jacska AB offers tailored solutions for community management, including building engagement strategies, managing events, and creating a cohesive community environment.
 
-  - title: Can you provide examples of your work?
-    description: Yes, on my website, you can find a portfolio with examples of my projects and designs.
+  - title: How does Jacska AB support Central-European trade?
+    description: We facilitate trade between Central Europe and other regions, offering expertise in market analysis, import-export strategies, and logistical support.
 
-  - title: What is your experience with various platforms and devices?
-    description: I have extensive experience working with various platforms, including websites, mobile applications, tablets, and other devices.
+  - title: Can you provide examples of your success in community operations?
+    description: We have successfully helped organizations build strong and active communities by implementing strategic initiatives and fostering meaningful connections.
 
-  - title: What tools and software do you use for work?
-    description: I work with tools such as Sketch, Adobe XD, Figma, InVision for creating designs and prototypes, and also use Jira and Trello for project management.
+  - title: What industries do you work with in trade services?
+    description: Our trade services cover a wide range of industries, including technology, consumer goods, and industrial equipment.
 
-  - title: How long does it take to develop a product design?
-    description: The development time depends on the complexity of the project. Usually, creating a product design takes from several weeks to several months.
+  - title: How can I start working with Jacska AB?
+    description: Contact us through our website's contact form or via email to discuss your specific needs. We’ll work closely with you to create a customized plan.
 
-  - title: How can I contact you to discuss my project?
-    description: You can contact me through the contact form on my website or directly via email. I'm always open to new projects and ready to discuss your idea.
+  - title: What sets Jacska AB apart in community operations and trade?
+    description: Our unique blend of expertise in community building and cross-border trade allows us to deliver innovative, efficient, and culturally aligned solutions for our clients.
 
 
 #-------------------------------
 # Gallery Settings
 gallery:
-  enable: true
-  gallery_title: A Visual Journey Through <em>My World</em> # You can add an 'em' element to highlight text.
-  gallery_description: Step into my visual world where each image tells a story. From the bustling streets of urban landscapes to the serene beauty of nature, explore the moments that inspire and define my journey.
-  gallery_caption:
+  enable: true # Set to 'false' to disable the gallery section.
+  gallery_title: A Visual Journey Through <em>Our Expertise</em> # Reflects professionalism and expertise.
+  gallery_description: Discover the essence of Jacska AB through a curated collection of images. From advancing industry insights to building thriving communities and fostering Central-European relations, every moment showcases our dedication to creating meaningful impact.
+  gallery_caption: Showcasing moments of innovation and collaboration.
 
 gallery_images:
   - alt: 'Together'
@@ -147,7 +153,7 @@ gallery_images:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false
   mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
   mailchimp_description: Join now and never miss out on our stuff again. Because you are worth it!
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
@@ -158,8 +164,8 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Baleon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: sophmonica@gmail.com # Add your form_id
+  description: Get in touch with us via the built-in contact form, powered by Formspree. Easily customizable for your unique needs.
 
 # NOTE
 # Baleon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -167,9 +173,9 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: jacska.se # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-BJ5WB7B4SM # Add your GA Tracking ID here

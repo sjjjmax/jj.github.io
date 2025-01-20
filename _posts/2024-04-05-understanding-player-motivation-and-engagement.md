@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Player Motivation and Engagement
-date: 2024-04-05 15:01:35 +0300
+date: 2025-01-01 05:01:35 +0300
 image: '/images/10.jpg'
 tags: [Coding]
 ---
