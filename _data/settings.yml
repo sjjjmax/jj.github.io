@@ -69,7 +69,7 @@ sidebar:
 #-------------------------------
 # Projects Settings
 projects:
-  enable: true
+  enable: false
   projects_title: Innovation in <em>Action</em> # A creative and engaging title.
   projects_description: Dive into our portfolio of groundbreaking projects, where creativity meets perfection. # A more engaging and creative description.
 
