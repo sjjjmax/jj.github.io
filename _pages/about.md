@@ -2,7 +2,7 @@
 layout: page
 title: About <em>Me</em>
 permalink: /about/
-image: '/images/100.jpg'
+# image: '/images/100.jpg'
 ---
 
 Hello, and welcome to my corner of the digital world. My name is Jie Shi, and I approach my role as an Architecture Analyst with the mindset of a Zen practitioner and the discipline of the samurai. Rooted in the principles of mindfulness, simplicity, and resilience, I focus on consulting, community operations, and Central-European trade, crafting solutions that not only drive success but also embody a deeper sense of purpose and harmony.
@@ -11,8 +11,11 @@ Guided by the Zen philosophy of embracing the present moment and the samurai spi
 
 In a fast-changing world, I believe the principles of clarity, perseverance, and adaptability are essential for fostering growth and transformation. By integrating the timeless wisdom of Zen and the unwavering commitment of the samurai, I aim to inspire organizations to achieve their goals while staying true to their core values and vision.
 
-> "The journey itself is home."  
-> <cite>Matsuo Basho (松尾 芭蕉)</cite>
+<blockquote>
+  "The journey itself is home."<br>
+  "日々旅にして、旅を栖とす。"
+  <cite>Matsuo Bashō (松尾芭蕉／まつおばしょう)</cite>
+</blockquote>
 
 With a background in architecture analysis, I specialize in bridging the gap between business strategy and operational execution. My work is rooted in deep research, careful planning, and effective collaboration. Whether it's enhancing community engagement, optimizing trade processes, or delivering actionable consulting strategies, I approach every challenge with a commitment to excellence.
 
@@ -25,8 +28,8 @@ Curiosity fuels my drive to continuously learn and innovate. I keep myself updat
 
 I believe in the power of collaboration and knowledge sharing. By mentoring aspiring professionals and participating in industry forums, I strive to contribute to the growth of the global professional community. Sharing ideas and insights fosters innovation and drives progress.
 
-![Professional Journey](/images/stockholm_002.jpg)
-*Photo by [Micael Widell](https://unsplash.com/@micaelwidell) on [Unsplash](https://unsplash.com/photos/an-aerial-shot-of-the-stockholm-city-hall-in-sweden-pVER5iPmTN4)*
+![Professional Journey](/images/jon-flobrant-jxfe3orC4G8-unsplash.jpg)
+*Photo by [Jon Flobrant](https://unsplash.com/@jonflobrant) on [Unsplash](https://unsplash.com/photos/scenery-of-a-body-of-water-beside-a-city-jxfe3orC4G8)*
 
 Every challenge I face is an opportunity to learn and grow. I am deeply grateful for the experiences that have shaped my career and look forward to tackling the next set of challenges with enthusiasm and determination.
 

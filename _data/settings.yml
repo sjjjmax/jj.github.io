@@ -13,14 +13,15 @@ menu_settings:
   menu_items:
     - title: 'JacskaAB'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+    # - title: 'Projects'
+    #   url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
       url: '/about/'
     - title: 'Elements'
       url: '/elements/'
+
 
 
 # Call to action button
